@@ -10,7 +10,8 @@ import com.mattihew.simUDuck.records.behaviours.QuackBehaviour;
  * @author Matt
  *
  */
-public abstract class Duck {
+public abstract class Duck
+{
 	
 	private int distance;
 	private FlyingBehaviour flyType;
